@@ -26,4 +26,8 @@ class MainActivity : AppCompatActivity() {
     fun task5(){
 
     }
+
+    fun task4(){
+
+    }
 }
