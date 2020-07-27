@@ -12,6 +12,18 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sum(){
+        var s : String = "orange"
+    }
+
+    fun delete(){
+        var s : String = "orange"
+    }
+
+    fun origin(){
+
+    }
+
+    fun task5(){
 
     }
 }
