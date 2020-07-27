@@ -10,4 +10,8 @@ class MainActivity : AppCompatActivity() {
 
         val a : Int
     }
+
+    fun sum(){
+
+    }
 }
