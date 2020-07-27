@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sum(){
-
+        var s : String = "orange"
     }
 }
