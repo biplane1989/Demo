@@ -22,4 +22,8 @@ class MainActivity : AppCompatActivity() {
     fun origin(){
 
     }
+
+    fun task5(){
+
+    }
 }
