@@ -18,4 +18,8 @@ class MainActivity : AppCompatActivity() {
     fun delete(){
         var s : String = "orange"
     }
+
+    fun origin(){
+
+    }
 }
