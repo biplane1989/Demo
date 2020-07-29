@@ -30,4 +30,8 @@ class MainActivity : AppCompatActivity() {
     fun task4(){
 
     }
+
+    fun myselft(){
+
+    }
 }
