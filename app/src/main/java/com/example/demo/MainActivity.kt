@@ -38,4 +38,8 @@ class MainActivity : AppCompatActivity() {
     fun goHome(){
         val a : Int
     }
+
+    fun apple(){
+
+    }
 }
