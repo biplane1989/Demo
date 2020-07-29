@@ -34,4 +34,8 @@ class MainActivity : AppCompatActivity() {
     fun myselft(){
         val a : Int
     }
+
+    fun goHome(){
+        val a : Int
+    }
 }
