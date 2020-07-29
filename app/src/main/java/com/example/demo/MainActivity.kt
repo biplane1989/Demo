@@ -32,6 +32,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun myselft(){
-
+        val a : Int
     }
 }
